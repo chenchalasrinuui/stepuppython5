@@ -1,0 +1,100 @@
+3 months
+
+python core
+
+1. why we go for python ?
+2. python installation(5)
+3. introduce python program
+4. variables
+5. functions
+6. identifiers
+7. flowControls
+8. keywords in python
+9. input and output at runtime
+10. operators
+
+advanced
+
+1.OOPS(class,object,inheritance,overloading,overriding,abstraction,encapslation)
+2.Datatypes
+3.range
+4.list
+5.set  
+6.tuple
+7.dict
+8.modules
+9.packages
+10. lib (create our own lib and publish to the python world)
+11. Exception Handling
+12. Regular Expressions  
+13. File Management
+14. logging
+15. multithreading
+
+Databases:
+
+1. python with MySQL
+2. python with MongoDB
+
+
+Web frameworks
+
+  1. flask
+
+  2. Django
+
+  3. ARC, POSTMAN, SoapUI(tools)
+
+
+End to End Flow
+
+1. client(HTML+JS) + Server(python with flask) + MongoDB 
+2. client(HTML+JS) + Server(python with Django) + MySQL 
+
+Deployment
+
+1. Deployment (GIT, AWS, Heroku)
+
+Data Anylatics:
+
+Numpy
+
+1. Numpy
+
+pandas
+
+1. pandas
+
+POC
+
+1. Twitter
+
+
+Data visualization
+
+1. matplotlib
+
+
+
+DataScience 
+
+ML 
+
+DL 
+
+
+sofwares need to install
+
+1. https://www.python.org/downloads/
+
+2. https://code.visualstudio.com/
+
+3. https://www.jetbrains.com/pycharm/download/#section=windows
+
+4. https://colab.research.google.com/
+
+
+
+
+	    
+
