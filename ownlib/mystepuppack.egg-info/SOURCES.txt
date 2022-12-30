@@ -1,0 +1,8 @@
+setup.py
+mystepuppack/__init__.py
+mystepuppack/arth.py
+mystepuppack/title.py
+mystepuppack.egg-info/PKG-INFO
+mystepuppack.egg-info/SOURCES.txt
+mystepuppack.egg-info/dependency_links.txt
+mystepuppack.egg-info/top_level.txt

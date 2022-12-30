@@ -1,3 +1,9 @@
+check package there or not ?
+
+pip install poetry
+poetry search <module name>
+
+
 create lib
 
 1. create folder
@@ -18,12 +24,8 @@ create lib
 
 7. create your .py(module) file and write functionlity
 
-8. For testing with Python you can use the libraries pytest and pytest-runner. Install the library in your virtual environment:
 
-> pipenv install pytest==4.4.1
-> pipenv install pytest-runner==4.4
-
-9. in the setup.py file
+8. in the setup.py file
 
 from setuptools import find_packages, setup
 setup(
@@ -34,17 +36,12 @@ setup(
     author='Me',
     license='MIT',
     install_requires=[],
-    setup_requires=['pytest-runner', 'wheel'],
-    tests_require=['pytest==4.4.1'],
-    test_suite='tests',
+    setup_requires=[ 'wheel']
 )
 
-10. to run tests 
-
-> python setup.py pytest
 
 
-11. build library : python setup.py bdist_wheel
+10. build library : python setup.py bdist_wheel
 
 
 
@@ -54,7 +51,7 @@ publish:
 1. create an account in https://pypi.org/account/register/
 
 uid: chenchalasrinu
-pwd: pypi123$
+pwd: *****
 
 2. pip install twine 
 

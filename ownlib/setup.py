@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 setup(
-    name='mypack',
-    packages=find_packages(include=['mypack']),
-    version='1.0',
+    name='mystepuppack',
+    packages=find_packages(include=['mystepuppack']),
+    version='3.0',
     description='My first Python library',
     author='StepUp',
     license='MIT',
