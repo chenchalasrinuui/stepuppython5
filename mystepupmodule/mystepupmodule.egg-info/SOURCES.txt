@@ -1,0 +1,7 @@
+setup.py
+mystepupmodule/__init__.py
+mystepupmodule/title.py
+mystepupmodule.egg-info/PKG-INFO
+mystepupmodule.egg-info/SOURCES.txt
+mystepupmodule.egg-info/dependency_links.txt
+mystepupmodule.egg-info/top_level.txt
