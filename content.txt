@@ -17,7 +17,7 @@ advanced
 
 1.OOPS(class,object,inheritance,overloading,overriding,abstraction,encapslation)
 2.Datatypes
-3.range
+3.range,string
 4.list
 5.set  
 6.tuple
