@@ -53,7 +53,7 @@ End to End Flow
 
 Deployment
 
-1. Deployment (GIT, AWS, Heroku)
+1. Deployment (GIT, AWS)
 
 Data Anylatics:
 
@@ -77,6 +77,8 @@ Data visualization
 
 
 DataScience 
+
+Maths 
 
 ML 
 

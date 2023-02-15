@@ -1,0 +1,85 @@
+1. install django 
+
+   pip install django 
+
+
+2. go to workspace folder 
+
+  >django-admin startproject <project name> 
+
+3. go into the project and create application
+  
+   >py ./manage.py startapp <app name>
+   >py ./manage.py startapp <app name>
+
+4. register these applications with project
+
+   settings.py 
+
+   INSTALLED_APPS = [
+    "appname",
+    "appname"
+]
+
+5. create view function based on your requirement in the application(s)
+
+from django.shortcuts import render,HttpResponse
+
+views.py
+# Create your views here.
+
+def fnGetMarks(self):
+    return HttpResponse("My marks are 999")
+
+def getPassPercent(self):
+    return HttpResponse("Pass percent is 99")
+
+6. Add the urls to the view function 
+
+a. Add inside project (not recommended)
+
+   urls.py 
+
+from django.contrib import admin
+from django.urls import path
+from app1 import views as reg
+from app2 import views as marks
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('get-marks/', marks.getMarks),
+    path('std-reg/',reg.stdReg)
+]
+
+
+b. Add urls inside application and inculde it inside the project
+
+ in marks application urls.py
+
+from django.urls import path
+from .views import getPassPercent,fnGetMarks
+
+urlpatterns = [
+    path('get-marks',fnGetMarks),
+    path('get-passpercent',getPassPercent)
+]
+
+include it inside project urls.py
+
+from django.contrib import admin
+from django.urls import path,include
+import marks;
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('marks/',include('marks.urls'))
+
+]
+
+7. py ./manage.py makemigrations
+
+8. py ./manage.py migrate 
+
+9. py ./manage.py runserver
+
+    http://127.0.0.1:8000/marks/get-passpercent
+
+
