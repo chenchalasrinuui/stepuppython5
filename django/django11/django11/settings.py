@@ -89,7 +89,6 @@ DATABASES = {
       'default': {
         'ENGINE': 'djongo',
         'NAME': 'stepup',
-        #'ENFORCE_SCHEMA': False,
         'CLIENT': {
                 #'host':'mongodb://localhost:27017',
                 'host': 'mongodb+srv://su:su@cluster1.eccp0ho.mongodb.net/?retryWrites=true&w=majority'
