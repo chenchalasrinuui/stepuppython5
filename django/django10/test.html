@@ -1,0 +1,50 @@
+<script>
+    function fnClick(){
+       var obj=new XMLHttpRequest()
+       obj.open('get','http://127.0.0.1:8000/myapp/get-users')
+       obj.send()
+       obj.onload=function(){
+         var res=obj.responseText;
+         document.querySelector('p').innerText=res;
+       }
+       obj.onerror=function(){
+        var res=obj.responseText;
+        document.querySelector('p').innerText=res;
+       }
+    }
+
+    function fnSave(){
+       var nameRef=document.querySelector('#name')
+       var rollRef=document.querySelector('#rno')
+       var dataObj={
+        "name":nameRef.value,
+        "rno":parseInt(rollRef.value)
+       }
+       console.log(dataObj)
+       var obj=new XMLHttpRequest()
+       obj.open('post','http://127.0.0.1:8000/myapp/save-user')
+       obj.send(JSON.stringify(dataObj))
+       obj.onload=function(){
+         var res=obj.responseText;
+         if(res== 'None'){
+            nameRef.value='',
+            rollRef.value=''
+         }
+         document.querySelector('h3').innerText=res=='None' ? 'Success' : 'Fail'
+       }
+       obj.onerror=function(){
+        var res=obj.responseText;
+        document.querySelector('h3').innerText=res;
+       }
+    }
+</script>
+<h1>Get Users</h1>
+<button onclick="fnClick()">Get Users</button>
+<p></p>
+<h1>Save User</h1>
+<p>Name:<input id="name" /></p>
+<p>Roll No: <input id="rno" /></p>
+<button onclick="fnSave()">Save</button>
+<h3></h3>
+
+
