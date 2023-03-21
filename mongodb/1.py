@@ -5,6 +5,7 @@ import pymongo #pip in pymongo
 #print(dir(pymongo))
 try:
         #url='mongodb://localhost:27017'
+        #url="mongodb+srv://su:su@cluster1.eccp0ho.mongodb.net/?retryWrites=true&w=majority"
         url='mongodb+srv://stepup:stepup@cluster0.eyocnzx.mongodb.net/?retryWrites=true&w=majority'
         mongoClient=pymongo.MongoClient(url)
         db=mongoClient["school"]

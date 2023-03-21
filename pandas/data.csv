@@ -1,0 +1,901 @@
+Order id,Customer name,Customer id,Product name,Product cost
+192837,Partha,8,Apple iPad 10.2-inch,59000
+192838,Vinay,10,Flatscreen TV,65999
+192839,Lavanya,16,20in Monitor,75000
+192840,Mohan,24,Bose SoundSport Headphones,55000
+192841,Kedar,2,Google Phone,59000
+192842,Karteek,4,LG Washing Machine,75000
+192843,Harsha,5,iPhone 11,55999
+192844,Pradhan,17,Macbook Pro Laptop,75999
+192845,Balaji,12,Macbook Pro Laptop,75000
+192846,Pradhan,17,27in 4K Gaming Monitor,65000
+192847,Lavanya,16,Flatscreen TV,63999
+192848,Pradhan,17,Samsung Galaxy S20,63000
+192849,Harsha,5,Samsung Galaxy S9 Plus,55999
+192850,Jaya Chandra,21,Google Phone,60000
+192851,Venu,23,Bose SoundSport Headphones,51999
+192852,Venki,15,27in 4K Gaming Monitor,55999
+192853,Tarun,11,,69999
+192854,Venki,15,Apple iPad 10.2-inch,50000
+192855,Vijay,9,iPhone 7s,51999
+192856,Vijay,9,Samsung Galaxy S9 Plus,51999
+192857,Tarun,11,27in 4K Gaming Monitor,61000
+192858,Mohan,24,LG ThinQ Refrigerator ,75999
+192859,Vijay,9,ThinkPad Laptop,75000
+192860,Pradhan,17,iPhone 7s,61000
+192861,Hema,6,iPhone 9,60000
+192862,Harsha,5,ThinkPad Laptop,55000
+192863,Venu,23,iPhone 7s,55000
+192864,Mallikarjun,13,iPhone 7s,60000
+192865,Siddhu,18,iPhone 8,59000
+192866,Shahid,20,iPhone 7s,59000
+192867,Shafi,3,iPhone 9,65000
+192868,Balaji,12,ThinkPad Laptop,75999
+192869,Kedar,2,Apple iPad 10.2-inch,59000
+192870,Neelima,19,,65999
+192871,Madhurima,7,Bose SoundSport Headphones,69999
+192872,Mohan,24,LG Mobile,75000
+192873,Tarun,11,LG ThinQ Refrigerator ,55000
+192874,Sumanth,22,iPhone 8,69999
+192875,Balaji,12,Google Phone,75000
+192876,Pradhan,17,27in 4K Gaming Monitor,75999
+192877,Vijay,9,Samsung Galaxy S9 Plus,60000
+192878,Jaya Chandra,21,iPhone 8,69000
+192879,Mallikarjun,13,20in Monitor,55000
+192880,Tarun,11,34in Ultrawide Monitor,50000
+192881,Lavanya,16,iPhone 8,65000
+192882,Shahid,20,LG Mobile,55000
+192883,Partha,8,LG ThinQ Refrigerator ,75999
+192884,Sumanth,22,27in 4K Gaming Monitor,60000
+192885,Vijay,9,Samsung Galaxy S9 Plus,63000
+192886,Neelima,19,Flatscreen TV,63999
+192887,Hema,6,Google Phone,60000
+192888,Jaya Chandra,21,ThinkPad Laptop,75000
+192889,Jaya Chandra,21,20in Monitor,59000
+192890,Sumanth,22,LG Mobile,55999
+192891,Hema,6,iPhone 9,50000
+192892,Karteek,4,20in Monitor,75000
+192893,Madhurima,7,27in 4K Gaming Monitor,55000
+192894,Tarun,11,Apple Airpods Headphones,61000
+192895,Jaya Chandra,21,27in FHD Monitor,75000
+192896,Tarun,11,,55999
+192897,Chaithanya,14,iPhone 8,69999
+192898,Sumanth,22,,69999
+192899,Mohan,24,27in 4K Gaming Monitor,65999
+192900,Balaji,12,34in Ultrawide Monitor,61000
+192901,Harsha,5,Flatscreen TV,65999
+192902,Balaji,12,iPhone 9,69999
+192903,Venki,15,20in Monitor,55000
+192904,Sumanth,22,Apple iPad 10.2-inch,69000
+192905,Partha,8,LG ThinQ Refrigerator ,65999
+192906,Mohan,24,Apple iPad 10.2-inch,69000
+192907,Balaji,12,LG Washing Machine,65999
+192908,Kedar,2,LG Mobile,55999
+192909,Sumanth,22,iPhone 8,55999
+192910,Nireekshan,1,20in Monitor,69999
+192911,Chaithanya,14,34in Ultrawide Monitor,75000
+192912,Siddhu,18,Google Phone,50000
+192913,Mallikarjun,13,Samsung Galaxy S20,69000
+192914,Jaya Chandra,21,iPhone 9,59000
+192915,Balaji,12,ThinkPad Laptop,50000
+192916,Siddhu,18,Apple iPad 10.2-inch,60000
+192917,Shahid,20,20in Monitor,75999
+192918,Neelima,19,27in FHD Monitor,65999
+192919,Lavanya,16,Samsung Galaxy S9 Plus,65000
+192920,Vijay,9,LG Mobile,63999
+192921,Venki,15,iPhone 9,50000
+192922,Vinay,10,Macbook Pro Laptop,65999
+192923,Shahid,20,LG ThinQ Refrigerator ,60000
+192924,Venki,15,Bose SoundSport Headphones,50000
+192925,Jaya Chandra,21,Google Phone,55000
+192926,Venu,23,LG ThinQ Refrigerator ,55999
+192927,Kedar,2,LG Mobile,63000
+192928,Neelima,19,Flatscreen TV,60000
+192929,Mallikarjun,13,34in Ultrawide Monitor,55000
+192930,Kedar,2,Macbook Pro Laptop,55999
+192931,Chaithanya,14,Apple iPad 10.2-inch,55000
+192932,Balaji,12,27in FHD Monitor,75000
+192933,Kedar,2,iPhone 11,63999
+192934,Mallikarjun,13,Google Phone,51999
+192935,Balaji,12,Samsung Galaxy S20,61000
+192936,Tarun,11,iPhone 7s,65999
+192937,Nireekshan,1,iPhone 8,55000
+192938,Mallikarjun,13,27in FHD Monitor,65000
+192939,Tarun,11,iPhone 9,55999
+192940,Lavanya,16,27in FHD Monitor,60000
+192941,Balaji,12,Samsung Galaxy S20,69000
+192942,Shafi,3,27in FHD Monitor,75000
+192943,Siddhu,18,Samsung Galaxy S20,75999
+192944,Vijay,9,Flatscreen TV,59000
+192945,Harsha,5,34in Ultrawide Monitor,60000
+192946,Madhurima,7,,51999
+192947,Partha,8,Apple Airpods Headphones,51999
+192948,Hema,6,LG Washing Machine,63000
+192949,Venu,23,Google Phone,65999
+192950,Chaithanya,14,Flatscreen TV,51999
+192951,Lavanya,16,27in 4K Gaming Monitor,75000
+192952,Pradhan,17,34in Ultrawide Monitor,63999
+192953,Chaithanya,14,LG ThinQ Refrigerator ,55000
+192954,Hema,6,LG Washing Machine,61000
+192955,Mohan,24,Samsung Galaxy S20,69999
+192956,Mohan,24,34in Ultrawide Monitor,69999
+192957,Tarun,11,27in FHD Monitor,75000
+192958,Nireekshan,1,27in FHD Monitor,75000
+192959,Madhurima,7,iPhone 8,69999
+192960,Mallikarjun,13,LG ThinQ Refrigerator ,63000
+192961,Jaya Chandra,21,LG Mobile,51999
+192962,Mallikarjun,13,iPhone 11,59000
+192963,Venki,15,iPhone 7s,65999
+192964,Balaji,12,iPhone 7s,65999
+192965,Hema,6,,63000
+192966,Vijay,9,iPhone 7s,65999
+192967,Venki,15,Flatscreen TV,65999
+192968,Karteek,4,Bose SoundSport Headphones,65000
+192969,Siddhu,18,iPhone 9,65000
+192970,Hema,6,27in 4K Gaming Monitor,55000
+192971,Mallikarjun,13,Apple iPad 10.2-inch,51999
+192972,Neelima,19,,65000
+192973,Jaya Chandra,21,Bose SoundSport Headphones,59000
+192974,Siddhu,18,ThinkPad Laptop,69000
+192975,Mohan,24,27in 4K Gaming Monitor,50000
+192976,Mallikarjun,13,Apple Airpods Headphones,60000
+192977,Karteek,4,34in Ultrawide Monitor,51999
+192978,Jaya Chandra,21,iPhone 7s,50000
+192979,Harsha,5,LG Mobile,61000
+192980,Pradhan,17,LG ThinQ Refrigerator ,63000
+192981,Jaya Chandra,21,iPhone 11,55000
+192982,Kedar,2,iPhone 11,51999
+192983,Hema,6,ThinkPad Laptop,63999
+192984,Neelima,19,iPhone 9,69000
+192985,Hema,6,Samsung Galaxy S9 Plus,50000
+192986,Mohan,24,Apple Airpods Headphones,60000
+192987,Balaji,12,20in Monitor,63999
+192988,Sumanth,22,Apple iPad 10.2-inch,60000
+192989,Venki,15,ThinkPad Laptop,65000
+192990,Venki,15,iPhone 7s,75000
+192991,Vinay,10,LG Mobile,75999
+192992,Mohan,24,Macbook Pro Laptop,65999
+192993,Shahid,20,Apple iPad 10.2-inch,65000
+192994,Madhurima,7,Macbook Pro Laptop,75999
+192995,Hema,6,,75999
+192996,Hema,6,LG Mobile,65999
+192997,Karteek,4,iPhone 8,65999
+192998,Vinay,10,iPhone 9,75999
+192999,Mallikarjun,13,ThinkPad Laptop,69999
+193000,Jaya Chandra,21,Apple iPad 10.2-inch,69000
+193001,Vinay,10,iPhone 8,69999
+193002,Partha,8,iPhone 8,69000
+193003,Balaji,12,Flatscreen TV,65000
+193004,Shahid,20,27in 4K Gaming Monitor,55999
+193005,Kedar,2,27in 4K Gaming Monitor,65999
+193006,Madhurima,7,Flatscreen TV,63999
+193007,Nireekshan,1,LG Mobile,75999
+193008,Hema,6,iPhone 11,63999
+193009,Balaji,12,27in 4K Gaming Monitor,65999
+193010,Madhurima,7,LG Washing Machine,65000
+193011,Harsha,5,Apple iPad 10.2-inch,59000
+193012,Neelima,19,LG Washing Machine,65999
+193013,Lavanya,16,Samsung Galaxy S9 Plus,63000
+193014,Sumanth,22,ThinkPad Laptop,55999
+193015,Madhurima,7,iPhone 9,75000
+193016,Tarun,11,Google Phone,63000
+193017,Mohan,24,Macbook Pro Laptop,75000
+193018,Venu,23,34in Ultrawide Monitor,69999
+193019,Siddhu,18,27in 4K Gaming Monitor,69999
+193020,Tarun,11,iPhone 8,59000
+193021,Venu,23,LG Mobile,65999
+193022,Vijay,9,27in 4K Gaming Monitor,55000
+193023,Mohan,24,Apple iPad 10.2-inch,55000
+193024,Chaithanya,14,Apple Airpods Headphones,75999
+193025,Karteek,4,20in Monitor,65999
+193026,Venki,15,ThinkPad Laptop,50000
+193027,Nireekshan,1,Google Phone,55999
+193028,Mohan,24,34in Ultrawide Monitor,51999
+193029,Vinay,10,Apple Airpods Headphones,63000
+193030,Shahid,20,LG ThinQ Refrigerator ,65999
+193031,Vijay,9,Samsung Galaxy S20,60000
+193032,Neelima,19,LG ThinQ Refrigerator ,63999
+193033,Shahid,20,LG Washing Machine,69000
+193034,Lavanya,16,iPhone 8,55999
+193035,Vijay,9,iPhone 11,69000
+193036,Madhurima,7,iPhone 8,69000
+193037,Jaya Chandra,21,27in 4K Gaming Monitor,69000
+193038,Lavanya,16,LG ThinQ Refrigerator ,69999
+193039,Sumanth,22,Flatscreen TV,60000
+193040,Hema,6,27in FHD Monitor,69000
+193041,Nireekshan,1,Apple Airpods Headphones,75999
+193042,Partha,8,Google Phone,61000
+193043,Hema,6,LG ThinQ Refrigerator ,55000
+193044,Balaji,12,LG Washing Machine,63000
+193045,Harsha,5,Macbook Pro Laptop,75999
+193046,Madhurima,7,Google Phone,69999
+193047,Balaji,12,Flatscreen TV,75999
+193048,Balaji,12,,60000
+193049,Sumanth,22,iPhone 8,51999
+193050,Jaya Chandra,21,Apple Airpods Headphones,75000
+193051,Hema,6,iPhone 9,55999
+193052,Sumanth,22,iPhone 9,65999
+193053,Siddhu,18,Apple iPad 10.2-inch,69999
+193054,Pradhan,17,iPhone 11,65000
+193055,Balaji,12,34in Ultrawide Monitor,61000
+193056,Sumanth,22,Apple iPad 10.2-inch,65000
+193057,Pradhan,17,Samsung Galaxy S20,63999
+193058,Venki,15,20in Monitor,51999
+193059,Balaji,12,iPhone 11,65999
+193060,Shafi,3,27in FHD Monitor,59000
+193061,Shahid,20,Google Phone,61000
+193062,Mohan,24,,63999
+193063,Shafi,3,iPhone 9,59000
+193064,Harsha,5,20in Monitor,65999
+193065,Balaji,12,Samsung Galaxy S9 Plus,59000
+193066,Chaithanya,14,iPhone 11,63000
+193067,Madhurima,7,27in FHD Monitor,59000
+193068,Neelima,19,34in Ultrawide Monitor,63000
+193069,Chaithanya,14,ThinkPad Laptop,50000
+193070,Shahid,20,LG ThinQ Refrigerator ,59000
+193071,Kedar,2,Samsung Galaxy S9 Plus,63000
+193072,Shahid,20,Samsung Galaxy S9 Plus,69999
+193073,Karteek,4,Apple iPad 10.2-inch,75999
+193074,Harsha,5,27in 4K Gaming Monitor,55999
+193075,Tarun,11,LG Mobile,55000
+193076,Nireekshan,1,27in FHD Monitor,75999
+193077,Madhurima,7,Google Phone,65000
+193078,Chaithanya,14,Samsung Galaxy S20,69999
+193079,Harsha,5,ThinkPad Laptop,65000
+193080,Shahid,20,LG Washing Machine,59000
+193081,Kedar,2,Bose SoundSport Headphones,61000
+193082,Shahid,20,iPhone 11,51999
+193083,Shafi,3,Samsung Galaxy S20,55999
+193084,Vinay,10,iPhone 9,50000
+193085,Partha,8,Bose SoundSport Headphones,55000
+193086,Nireekshan,1,Apple iPad 10.2-inch,75000
+193087,Harsha,5,iPhone 9,51999
+193088,Lavanya,16,LG Mobile,55000
+193089,Mohan,24,27in 4K Gaming Monitor,69999
+193090,Pradhan,17,Google Phone,55999
+193091,Lavanya,16,iPhone 7s,63999
+193092,Vinay,10,Apple Airpods Headphones,51999
+193093,Pradhan,17,Flatscreen TV,60000
+193094,Tarun,11,iPhone 8,75000
+193095,Kedar,2,iPhone 9,75999
+193096,Lavanya,16,iPhone 7s,65999
+193097,Tarun,11,Samsung Galaxy S20,69000
+193098,Shahid,20,Flatscreen TV,69999
+193099,Shahid,20,LG Mobile,69999
+193100,Harsha,5,iPhone 8,63000
+193101,Karteek,4,Samsung Galaxy S9 Plus,55000
+193102,Nireekshan,1,,50000
+193103,Shahid,20,27in FHD Monitor,63999
+193104,Vijay,9,27in 4K Gaming Monitor,65999
+193105,Pradhan,17,34in Ultrawide Monitor,60000
+193106,Neelima,19,Flatscreen TV,75000
+193107,Harsha,5,Macbook Pro Laptop,59000
+193108,Lavanya,16,LG Mobile,50000
+193109,Shahid,20,iPhone 11,69000
+193110,Karteek,4,iPhone 9,50000
+193111,Neelima,19,LG Washing Machine,59000
+193112,Mohan,24,,55999
+193113,Kedar,2,Apple Airpods Headphones,75999
+193114,Tarun,11,Samsung Galaxy S20,59000
+193115,Shafi,3,Apple Airpods Headphones,60000
+193116,Jaya Chandra,21,LG ThinQ Refrigerator ,55000
+193117,Vijay,9,Bose SoundSport Headphones,69000
+193118,Neelima,19,Apple iPad 10.2-inch,65000
+193119,Sumanth,22,ThinkPad Laptop,69999
+193120,Shahid,20,Bose SoundSport Headphones,75999
+193121,Harsha,5,Samsung Galaxy S9 Plus,65999
+193122,Karteek,4,LG ThinQ Refrigerator ,55000
+193123,Lavanya,16,Apple Airpods Headphones,65000
+193124,Hema,6,20in Monitor,61000
+193125,Vijay,9,27in 4K Gaming Monitor,55999
+193126,Balaji,12,27in FHD Monitor,55999
+193127,Nireekshan,1,iPhone 11,75000
+193128,Kedar,2,Samsung Galaxy S9 Plus,65999
+193129,Mallikarjun,13,iPhone 11,65999
+193130,Jaya Chandra,21,Samsung Galaxy S20,65999
+193131,Madhurima,7,LG Mobile,59000
+193132,Balaji,12,Samsung Galaxy S9 Plus,65999
+193133,Neelima,19,iPhone 8,60000
+193134,Partha,8,Samsung Galaxy S20,55000
+193135,Vijay,9,Samsung Galaxy S20,65000
+193136,Siddhu,18,Macbook Pro Laptop,65999
+193137,Shahid,20,iPhone 11,51999
+193138,Mallikarjun,13,,69000
+193139,Chaithanya,14,LG ThinQ Refrigerator ,69000
+193140,Siddhu,18,iPhone 7s,61000
+193141,Chaithanya,14,20in Monitor,55000
+193142,Harsha,5,Flatscreen TV,65999
+193143,Sumanth,22,LG ThinQ Refrigerator ,61000
+193144,Hema,6,iPhone 7s,63000
+193145,Partha,8,LG ThinQ Refrigerator ,61000
+193146,Kedar,2,Flatscreen TV,65999
+193147,Neelima,19,ThinkPad Laptop,65999
+193148,Neelima,19,ThinkPad Laptop,61000
+193149,Balaji,12,20in Monitor,65999
+193150,Vijay,9,27in 4K Gaming Monitor,69000
+193151,Karteek,4,27in FHD Monitor,50000
+193152,Tarun,11,Macbook Pro Laptop,65000
+193153,Venu,23,Macbook Pro Laptop,65000
+193154,Shafi,3,20in Monitor,69000
+193155,Tarun,11,iPhone 7s,61000
+193156,Neelima,19,Apple Airpods Headphones,55999
+193157,Kedar,2,LG Mobile,63000
+193158,Siddhu,18,iPhone 9,63999
+193159,Nireekshan,1,iPhone 8,61000
+193160,Harsha,5,,55999
+193161,Venu,23,27in 4K Gaming Monitor,50000
+193162,Hema,6,Google Phone,51999
+193163,Neelima,19,Flatscreen TV,63999
+193164,Siddhu,18,20in Monitor,65999
+193165,Chaithanya,14,iPhone 9,61000
+193166,Jaya Chandra,21,LG ThinQ Refrigerator ,55999
+193167,Vinay,10,iPhone 11,75999
+193168,Vinay,10,iPhone 11,50000
+193169,Tarun,11,Flatscreen TV,55999
+193170,Karteek,4,LG Mobile,61000
+193171,Balaji,12,Google Phone,55000
+193172,Shahid,20,Samsung Galaxy S9 Plus,50000
+193173,Lavanya,16,27in 4K Gaming Monitor,59000
+193174,Harsha,5,LG Washing Machine,69999
+193175,Madhurima,7,iPhone 9,55000
+193176,Nireekshan,1,iPhone 8,51999
+193177,Balaji,12,Apple iPad 10.2-inch,75999
+193178,Mallikarjun,13,Apple iPad 10.2-inch,59000
+193179,Shahid,20,Flatscreen TV,61000
+193180,Harsha,5,20in Monitor,75000
+193181,Sumanth,22,LG Washing Machine,65000
+193182,Shahid,20,LG Mobile,61000
+193183,Venki,15,LG Washing Machine,65999
+193184,Chaithanya,14,iPhone 8,61000
+193185,Shafi,3,iPhone 7s,75000
+193186,Pradhan,17,iPhone 9,55999
+193187,Harsha,5,Flatscreen TV,75000
+193188,Mohan,24,iPhone 8,51999
+193189,Tarun,11,20in Monitor,51999
+193190,Mallikarjun,13,iPhone 11,55000
+193191,Madhurima,7,iPhone 9,59000
+193192,Mallikarjun,13,Bose SoundSport Headphones,65999
+193193,Siddhu,18,Google Phone,65999
+193194,Shafi,3,LG Washing Machine,50000
+193195,Sumanth,22,Apple iPad 10.2-inch,69999
+193196,Neelima,19,LG ThinQ Refrigerator ,61000
+193197,Kedar,2,Macbook Pro Laptop,55999
+193198,Mohan,24,LG Mobile,50000
+193199,Lavanya,16,20in Monitor,63000
+193200,Mohan,24,,63000
+193201,Shahid,20,Apple Airpods Headphones,69999
+193202,Mallikarjun,13,,75999
+193203,Hema,6,iPhone 8,75999
+193204,Partha,8,ThinkPad Laptop,59000
+193205,Madhurima,7,iPhone 11,65999
+193206,Lavanya,16,,65999
+193207,Shahid,20,Macbook Pro Laptop,60000
+193208,Balaji,12,Apple iPad 10.2-inch,65000
+193209,Madhurima,7,20in Monitor,69000
+193210,Pradhan,17,Apple Airpods Headphones,65999
+193211,Mallikarjun,13,LG Washing Machine,63000
+193212,Nireekshan,1,Flatscreen TV,59000
+193213,Neelima,19,iPhone 11,59000
+193214,Jaya Chandra,21,34in Ultrawide Monitor,59000
+193215,Tarun,11,iPhone 9,75000
+193216,Lavanya,16,,75000
+193217,Vinay,10,Samsung Galaxy S20,63000
+193218,Shahid,20,iPhone 9,75999
+193219,Neelima,19,iPhone 9,60000
+193220,Lavanya,16,ThinkPad Laptop,55000
+193221,Pradhan,17,Apple iPad 10.2-inch,75999
+193222,Venki,15,Apple Airpods Headphones,61000
+193223,Venki,15,Macbook Pro Laptop,55999
+193224,Nireekshan,1,iPhone 11,65999
+193225,Nireekshan,1,Apple iPad 10.2-inch,75000
+193226,Jaya Chandra,21,34in Ultrawide Monitor,55999
+193227,Vijay,9,iPhone 9,51999
+193228,Venu,23,Flatscreen TV,55000
+193229,Shafi,3,iPhone 8,75000
+193230,Venu,23,iPhone 8,63000
+193231,Madhurima,7,Samsung Galaxy S9 Plus,55000
+193232,Pradhan,17,LG Mobile,75999
+193233,Shafi,3,27in FHD Monitor,65999
+193234,Partha,8,ThinkPad Laptop,75000
+193235,Venu,23,27in 4K Gaming Monitor,63999
+193236,Harsha,5,iPhone 8,65000
+193237,Vijay,9,27in 4K Gaming Monitor,63999
+193238,Hema,6,Samsung Galaxy S9 Plus,63999
+193239,Chaithanya,14,iPhone 11,51999
+193240,Venki,15,iPhone 7s,61000
+193241,Karteek,4,Samsung Galaxy S20,69000
+193242,Kedar,2,iPhone 9,51999
+193243,Hema,6,27in FHD Monitor,63999
+193244,Venki,15,iPhone 9,55999
+193245,Jaya Chandra,21,20in Monitor,69999
+193246,Mohan,24,iPhone 9,69000
+193247,Balaji,12,34in Ultrawide Monitor,65000
+193248,Harsha,5,20in Monitor,65999
+193249,Shahid,20,LG ThinQ Refrigerator ,63999
+193250,Venki,15,Macbook Pro Laptop,75000
+193251,Mallikarjun,13,34in Ultrawide Monitor,69999
+193252,Neelima,19,,63999
+193253,Tarun,11,ThinkPad Laptop,59000
+193254,Mohan,24,Macbook Pro Laptop,51999
+193255,Partha,8,,63999
+193256,Shahid,20,27in FHD Monitor,55000
+193257,Neelima,19,iPhone 7s,63999
+193258,Nireekshan,1,Bose SoundSport Headphones,55000
+193259,Vijay,9,Apple Airpods Headphones,69999
+193260,Chaithanya,14,LG ThinQ Refrigerator ,65999
+193261,Sumanth,22,LG ThinQ Refrigerator ,65000
+193262,Venki,15,Apple Airpods Headphones,55999
+193263,Karteek,4,LG Washing Machine,63999
+193264,Vijay,9,Macbook Pro Laptop,61000
+193265,Vijay,9,20in Monitor,60000
+193266,Pradhan,17,LG Washing Machine,55000
+193267,Venu,23,LG Mobile,65999
+193268,Vinay,10,iPhone 9,65000
+193269,Mohan,24,27in FHD Monitor,59000
+193270,Chaithanya,14,Macbook Pro Laptop,65000
+193271,Sumanth,22,20in Monitor,55999
+193272,Venki,15,LG ThinQ Refrigerator ,55000
+193273,Harsha,5,Apple iPad 10.2-inch,61000
+193274,Chaithanya,14,,59000
+193275,Kedar,2,Google Phone,55000
+193276,Tarun,11,Bose SoundSport Headphones,55999
+193277,Tarun,11,Apple iPad 10.2-inch,69000
+193278,Sumanth,22,LG ThinQ Refrigerator ,65000
+193279,Vinay,10,27in 4K Gaming Monitor,51999
+193280,Madhurima,7,iPhone 8,75999
+193281,Vinay,10,34in Ultrawide Monitor,50000
+193282,Hema,6,iPhone 8,55999
+193283,Kedar,2,Google Phone,61000
+193284,Balaji,12,Samsung Galaxy S20,75000
+193285,Pradhan,17,Bose SoundSport Headphones,65999
+193286,Siddhu,18,Macbook Pro Laptop,51999
+193287,Mallikarjun,13,Apple iPad 10.2-inch,75000
+193288,Vinay,10,iPhone 7s,65999
+193289,Harsha,5,27in 4K Gaming Monitor,65000
+193290,Mallikarjun,13,Macbook Pro Laptop,69000
+193291,Vinay,10,LG ThinQ Refrigerator ,63000
+193292,Partha,8,ThinkPad Laptop,75999
+193293,Kedar,2,iPhone 8,75000
+193294,Partha,8,iPhone 11,75000
+193295,Kedar,2,Samsung Galaxy S20,69999
+193296,Shahid,20,,63999
+193297,Tarun,11,,61000
+193298,Madhurima,7,iPhone 7s,69000
+193299,Vijay,9,Google Phone,63000
+193300,Mohan,24,Samsung Galaxy S20,65000
+193301,Sumanth,22,20in Monitor,60000
+193302,Tarun,11,LG ThinQ Refrigerator ,75000
+193303,Lavanya,16,iPhone 7s,60000
+193304,Chaithanya,14,iPhone 7s,65999
+193305,Nireekshan,1,Bose SoundSport Headphones,61000
+193306,Harsha,5,Bose SoundSport Headphones,61000
+193307,Neelima,19,20in Monitor,51999
+193308,Venki,15,27in 4K Gaming Monitor,55999
+193309,Karteek,4,Apple Airpods Headphones,65000
+193310,Harsha,5,iPhone 8,55000
+193311,Vinay,10,Apple iPad 10.2-inch,75999
+193312,Chaithanya,14,Samsung Galaxy S20,69999
+193313,Shahid,20,Apple iPad 10.2-inch,65999
+193314,Pradhan,17,Apple iPad 10.2-inch,59000
+193315,Partha,8,iPhone 8,69000
+193316,Venki,15,Flatscreen TV,63000
+193317,Harsha,5,LG Mobile,59000
+193318,Jaya Chandra,21,Apple Airpods Headphones,69999
+193319,Madhurima,7,LG Mobile,75999
+193320,Shafi,3,,75000
+193321,Balaji,12,iPhone 8,55999
+193322,Tarun,11,34in Ultrawide Monitor,63000
+193323,Mohan,24,LG Washing Machine,51999
+193324,Balaji,12,iPhone 11,63999
+193325,Chaithanya,14,Flatscreen TV,51999
+193326,Vijay,9,20in Monitor,50000
+193327,Madhurima,7,Macbook Pro Laptop,50000
+193328,Harsha,5,iPhone 7s,69000
+193329,Shafi,3,34in Ultrawide Monitor,63999
+193330,Chaithanya,14,LG ThinQ Refrigerator ,69000
+193331,Nireekshan,1,LG ThinQ Refrigerator ,61000
+193332,Pradhan,17,,55999
+193333,Karteek,4,Samsung Galaxy S9 Plus,75999
+193334,Lavanya,16,20in Monitor,51999
+193335,Mohan,24,Bose SoundSport Headphones,59000
+193336,Mallikarjun,13,Apple iPad 10.2-inch,55999
+193337,Karteek,4,Apple iPad 10.2-inch,60000
+193338,Balaji,12,Macbook Pro Laptop,75000
+193339,Neelima,19,20in Monitor,61000
+193340,Venu,23,iPhone 8,55000
+193341,Jaya Chandra,21,Apple Airpods Headphones,69999
+193342,Nireekshan,1,27in 4K Gaming Monitor,69000
+193343,Shahid,20,Macbook Pro Laptop,50000
+193344,Sumanth,22,Samsung Galaxy S9 Plus,65999
+193345,Madhurima,7,Macbook Pro Laptop,55000
+193346,Shafi,3,27in 4K Gaming Monitor,65999
+193347,Hema,6,LG Washing Machine,69000
+193348,Tarun,11,iPhone 9,61000
+193349,Vinay,10,Samsung Galaxy S9 Plus,51999
+193350,Venu,23,LG ThinQ Refrigerator ,61000
+193351,Balaji,12,LG ThinQ Refrigerator ,61000
+193352,Hema,6,27in 4K Gaming Monitor,75999
+193353,Lavanya,16,Google Phone,75000
+193354,Vijay,9,20in Monitor,69000
+193355,Vinay,10,27in FHD Monitor,65999
+193356,Kedar,2,Google Phone,69999
+193357,Karteek,4,LG Washing Machine,69999
+193358,Sumanth,22,LG Mobile,51999
+193359,Shahid,20,Flatscreen TV,51999
+193360,Lavanya,16,LG Washing Machine,59000
+193361,Hema,6,,61000
+193362,Neelima,19,ThinkPad Laptop,65999
+193363,Neelima,19,iPhone 7s,60000
+193364,Siddhu,18,LG Mobile,60000
+193365,Lavanya,16,Google Phone,75000
+193366,Nireekshan,1,iPhone 7s,69000
+193367,Madhurima,7,LG Washing Machine,55000
+193368,Pradhan,17,Samsung Galaxy S20,60000
+193369,Lavanya,16,LG Washing Machine,75999
+193370,Vijay,9,iPhone 9,55999
+193371,Balaji,12,Bose SoundSport Headphones,65000
+193372,Pradhan,17,Flatscreen TV,65000
+193373,Siddhu,18,iPhone 11,59000
+193374,Venu,23,iPhone 11,55999
+193375,Venki,15,27in FHD Monitor,65000
+193376,Partha,8,LG Washing Machine,65999
+193377,Hema,6,LG ThinQ Refrigerator ,69000
+193378,Balaji,12,Apple iPad 10.2-inch,75999
+193379,Neelima,19,LG Washing Machine,55999
+193380,Vinay,10,LG ThinQ Refrigerator ,65999
+193381,Chaithanya,14,Samsung Galaxy S20,61000
+193382,Vijay,9,,75000
+193383,Neelima,19,Samsung Galaxy S9 Plus,63999
+193384,Mallikarjun,13,Bose SoundSport Headphones,61000
+193385,Lavanya,16,27in FHD Monitor,55999
+193386,Shahid,20,,60000
+193387,Mohan,24,LG ThinQ Refrigerator ,69999
+193388,Mohan,24,Bose SoundSport Headphones,61000
+193389,Shafi,3,Macbook Pro Laptop,60000
+193390,Jaya Chandra,21,Samsung Galaxy S20,50000
+193391,Neelima,19,iPhone 9,69999
+193392,Mallikarjun,13,27in 4K Gaming Monitor,75999
+193393,Madhurima,7,Apple iPad 10.2-inch,69999
+193394,Mohan,24,Google Phone,69000
+193395,Pradhan,17,iPhone 8,60000
+193396,Shafi,3,Apple iPad 10.2-inch,63999
+193397,Lavanya,16,Bose SoundSport Headphones,65999
+193398,Harsha,5,iPhone 9,55999
+193399,Tarun,11,20in Monitor,51999
+193400,Vinay,10,,59000
+193401,Balaji,12,iPhone 9,75999
+193402,Jaya Chandra,21,Samsung Galaxy S20,63000
+193403,Jaya Chandra,21,iPhone 11,60000
+193404,Hema,6,Samsung Galaxy S9 Plus,61000
+193405,Harsha,5,Apple Airpods Headphones,61000
+193406,Tarun,11,LG ThinQ Refrigerator ,60000
+193407,Partha,8,,75000
+193408,Venu,23,,55000
+193409,Partha,8,iPhone 7s,69000
+193410,Vijay,9,LG ThinQ Refrigerator ,55999
+193411,Neelima,19,,65999
+193412,Vinay,10,,75000
+193413,Nireekshan,1,Macbook Pro Laptop,60000
+193414,Shahid,20,LG Washing Machine,65999
+193415,Harsha,5,iPhone 11,55999
+193416,Neelima,19,Flatscreen TV,63000
+193417,Sumanth,22,iPhone 7s,55000
+193418,Neelima,19,Apple iPad 10.2-inch,65000
+193419,Lavanya,16,LG Mobile,69000
+193420,Sumanth,22,27in FHD Monitor,69999
+193421,Venki,15,Apple iPad 10.2-inch,51999
+193422,Nireekshan,1,Flatscreen TV,65999
+193423,Tarun,11,Apple iPad 10.2-inch,61000
+193424,Vinay,10,Flatscreen TV,65000
+193425,Partha,8,Flatscreen TV,61000
+193426,Balaji,12,iPhone 7s,60000
+193427,Kedar,2,LG Washing Machine,55000
+193428,Hema,6,Samsung Galaxy S20,63999
+193429,Balaji,12,Google Phone,65000
+193430,Madhurima,7,iPhone 7s,63999
+193431,Mallikarjun,13,Macbook Pro Laptop,69000
+193432,Chaithanya,14,Google Phone,59000
+193433,Jaya Chandra,21,Apple Airpods Headphones,59000
+193434,Venu,23,Macbook Pro Laptop,69999
+193435,Siddhu,18,Bose SoundSport Headphones,51999
+193436,Vinay,10,LG ThinQ Refrigerator ,63000
+193437,Mohan,24,,69999
+193438,Venki,15,27in 4K Gaming Monitor,55000
+193439,Shafi,3,,59000
+193440,Siddhu,18,Google Phone,50000
+193441,Siddhu,18,Bose SoundSport Headphones,50000
+193442,Venki,15,LG Mobile,55999
+193443,Harsha,5,LG Washing Machine,59000
+193444,Harsha,5,Samsung Galaxy S9 Plus,55999
+193445,Pradhan,17,iPhone 9,65999
+193446,Hema,6,Macbook Pro Laptop,75000
+193447,Madhurima,7,Macbook Pro Laptop,69999
+193448,Partha,8,34in Ultrawide Monitor,60000
+193449,Pradhan,17,Flatscreen TV,69000
+193450,Harsha,5,34in Ultrawide Monitor,61000
+193451,Venu,23,27in FHD Monitor,59000
+193452,Sumanth,22,Flatscreen TV,75999
+193453,Neelima,19,LG ThinQ Refrigerator ,59000
+193454,Vinay,10,Flatscreen TV,50000
+193455,Vijay,9,Google Phone,75000
+193456,Partha,8,Apple Airpods Headphones,65000
+193457,Venki,15,iPhone 9,63999
+193458,Neelima,19,LG Mobile,65000
+193459,Hema,6,Samsung Galaxy S20,75000
+193460,Mohan,24,Apple iPad 10.2-inch,63999
+193461,Balaji,12,ThinkPad Laptop,59000
+193462,Pradhan,17,LG Mobile,55000
+193463,Kedar,2,Flatscreen TV,51999
+193464,Hema,6,iPhone 9,55000
+193465,Pradhan,17,LG Washing Machine,63999
+193466,Partha,8,ThinkPad Laptop,60000
+193467,Lavanya,16,Samsung Galaxy S20,63000
+193468,Kedar,2,Google Phone,75999
+193469,Vijay,9,iPhone 8,65999
+193470,Pradhan,17,iPhone 11,61000
+193471,Tarun,11,Apple Airpods Headphones,69999
+193472,Shahid,20,iPhone 7s,69999
+193473,Lavanya,16,iPhone 7s,60000
+193474,Lavanya,16,27in 4K Gaming Monitor,65999
+193475,Balaji,12,ThinkPad Laptop,63000
+193476,Siddhu,18,Google Phone,65000
+193477,Venu,23,LG Mobile,51999
+193478,Harsha,5,Google Phone,59000
+193479,Pradhan,17,iPhone 7s,75999
+193480,Hema,6,LG ThinQ Refrigerator ,75999
+193481,Chaithanya,14,27in 4K Gaming Monitor,75000
+193482,Neelima,19,,75000
+193483,Tarun,11,Google Phone,65000
+193484,Karteek,4,Apple iPad 10.2-inch,60000
+193485,Shahid,20,LG ThinQ Refrigerator ,51999
+193486,Chaithanya,14,LG Mobile,75999
+193487,Siddhu,18,Flatscreen TV,75999
+193488,Jaya Chandra,21,Apple Airpods Headphones,51999
+193489,Harsha,5,iPhone 11,51999
+193490,Shahid,20,ThinkPad Laptop,65000
+193491,Jaya Chandra,21,iPhone 8,75999
+193492,Mohan,24,Bose SoundSport Headphones,75999
+193493,Lavanya,16,iPhone 11,65000
+193494,Tarun,11,Google Phone,65999
+193495,Kedar,2,LG Mobile,65999
+193496,Pradhan,17,LG ThinQ Refrigerator ,75999
+193497,Karteek,4,Samsung Galaxy S20,63999
+193498,Partha,8,ThinkPad Laptop,69000
+193499,Karteek,4,LG ThinQ Refrigerator ,55000
+193500,Neelima,19,27in 4K Gaming Monitor,51999
+193501,Venki,15,20in Monitor,65999
+193502,Venki,15,,75999
+193503,Nireekshan,1,Macbook Pro Laptop,50000
+193504,Tarun,11,Samsung Galaxy S20,65999
+193505,Shahid,20,Google Phone,69000
+193506,Neelima,19,LG Washing Machine,51999
+193507,Neelima,19,LG Mobile,61000
+193508,Sumanth,22,27in 4K Gaming Monitor,63000
+193509,Karteek,4,34in Ultrawide Monitor,55000
+193510,Venki,15,iPhone 7s,51999
+193511,Mohan,24,Bose SoundSport Headphones,50000
+193512,Tarun,11,Flatscreen TV,75999
+193513,Neelima,19,Macbook Pro Laptop,65999
+193514,Shahid,20,Samsung Galaxy S9 Plus,69000
+193515,Mohan,24,Macbook Pro Laptop,65000
+193516,Tarun,11,27in FHD Monitor,69999
+193517,Jaya Chandra,21,iPhone 9,65999
+193518,Mohan,24,ThinkPad Laptop,50000
+193519,Vinay,10,Google Phone,65999
+193520,Tarun,11,Apple iPad 10.2-inch,63999
+193521,Hema,6,34in Ultrawide Monitor,59000
+193522,Shahid,20,iPhone 8,51999
+193523,Karteek,4,Macbook Pro Laptop,65999
+193524,Karteek,4,Flatscreen TV,59000
+193525,Neelima,19,Flatscreen TV,55000
+193526,Shahid,20,Samsung Galaxy S20,65000
+193527,Nireekshan,1,iPhone 11,55999
+193528,Shahid,20,34in Ultrawide Monitor,75000
+193529,Mohan,24,iPhone 7s,65999
+193530,Balaji,12,Apple Airpods Headphones,65000
+193531,Sumanth,22,34in Ultrawide Monitor,75000
+193532,Vinay,10,27in FHD Monitor,59000
+193533,Partha,8,Apple iPad 10.2-inch,65999
+193534,Pradhan,17,ThinkPad Laptop,63000
+193535,Venki,15,27in FHD Monitor,60000
+193536,Chaithanya,14,Apple iPad 10.2-inch,63999
+193537,Lavanya,16,iPhone 8,75999
+193538,Madhurima,7,20in Monitor,69999
+193539,Shafi,3,Macbook Pro Laptop,65999
+193540,Sumanth,22,iPhone 9,65000
+193541,Lavanya,16,iPhone 7s,59000
+193542,Mallikarjun,13,LG Washing Machine,55999
+193543,Hema,6,Apple Airpods Headphones,65000
+193544,Jaya Chandra,21,27in FHD Monitor,63999
+193545,Chaithanya,14,LG ThinQ Refrigerator ,65999
+193546,Shahid,20,27in FHD Monitor,75999
+193547,Venki,15,iPhone 11,60000
+193548,Madhurima,7,,55999
+193549,Partha,8,LG ThinQ Refrigerator ,65999
+193550,Venu,23,Macbook Pro Laptop,51999
+193551,Venki,15,LG ThinQ Refrigerator ,65000
+193552,Pradhan,17,Google Phone,55000
+193553,Tarun,11,Flatscreen TV,60000
+193554,Nireekshan,1,27in 4K Gaming Monitor,75999
+193555,Karteek,4,ThinkPad Laptop,65999
+193556,Mallikarjun,13,Google Phone,61000
+193557,Nireekshan,1,Bose SoundSport Headphones,61000
+193558,Siddhu,18,iPhone 9,50000
+193559,Mallikarjun,13,Samsung Galaxy S20,65999
+193560,Harsha,5,Bose SoundSport Headphones,69000
+193561,Kedar,2,LG ThinQ Refrigerator ,55999
+193562,Mohan,24,Apple iPad 10.2-inch,60000
+193563,Neelima,19,iPhone 7s,60000
+193564,Neelima,19,iPhone 9,50000
+193565,Shahid,20,27in FHD Monitor,63000
+193566,Karteek,4,Google Phone,63999
+193567,Balaji,12,Samsung Galaxy S20,69999
+193568,Madhurima,7,iPhone 11,60000
+193569,Nireekshan,1,Apple iPad 10.2-inch,55000
+193570,Partha,8,Flatscreen TV,55000
+193571,Chaithanya,14,iPhone 8,59000
+193572,Neelima,19,Flatscreen TV,55999
+193573,Mallikarjun,13,Apple Airpods Headphones,65999
+193574,Sumanth,22,Samsung Galaxy S9 Plus,75000
+193575,Vijay,9,27in 4K Gaming Monitor,63999
+193576,Lavanya,16,20in Monitor,75000
+193577,Venu,23,Apple Airpods Headphones,59000
+193578,Kedar,2,iPhone 8,75999
+193579,Shafi,3,LG ThinQ Refrigerator ,55000
+193580,Shahid,20,Apple Airpods Headphones,63999
+193581,Shafi,3,Apple iPad 10.2-inch,60000
+193582,Vijay,9,Samsung Galaxy S20,55000
+193583,Shafi,3,Macbook Pro Laptop,59000
+193584,Chaithanya,14,27in FHD Monitor,75000
+193585,Venu,23,iPhone 11,75999
+193586,Pradhan,17,ThinkPad Laptop,63000
+193587,Jaya Chandra,21,27in FHD Monitor,59000
+193588,Madhurima,7,Macbook Pro Laptop,69000
+193589,Madhurima,7,Macbook Pro Laptop,69999
+193590,Venki,15,Apple iPad 10.2-inch,63000
+193591,Kedar,2,iPhone 7s,65000
+193592,Sumanth,22,34in Ultrawide Monitor,75000
+193593,Harsha,5,LG ThinQ Refrigerator ,75000
+193594,Harsha,5,Samsung Galaxy S9 Plus,69999
+193595,Shahid,20,iPhone 7s,59000
+193596,Partha,8,Bose SoundSport Headphones,65999
+193597,Partha,8,Apple Airpods Headphones,55000
+193598,Mallikarjun,13,27in 4K Gaming Monitor,75999
+193599,Neelima,19,Macbook Pro Laptop,75000
+193600,Venu,23,iPhone 11,51999
+193601,Shafi,3,iPhone 7s,63999
+193602,Tarun,11,Apple Airpods Headphones,63999
+193603,Pradhan,17,LG Mobile,50000
+193604,Sumanth,22,Apple iPad 10.2-inch,50000
+193605,Nireekshan,1,LG Washing Machine,63999
+193606,Lavanya,16,Macbook Pro Laptop,75999
+193607,Shahid,20,iPhone 11,75999
+193608,Partha,8,20in Monitor,65999
+193609,Lavanya,16,Macbook Pro Laptop,69000
+193610,Shahid,20,iPhone 11,65000
+193611,Nireekshan,1,,60000
+193612,Balaji,12,LG Washing Machine,59000
+193613,Shafi,3,Flatscreen TV,55999
+193614,Nireekshan,1,20in Monitor,55000
+193615,Venki,15,iPhone 11,69999
+193616,Shahid,20,iPhone 9,51999
+193617,Mohan,24,27in 4K Gaming Monitor,51999
+193618,Nireekshan,1,LG Washing Machine,63999
+193619,Siddhu,18,LG Washing Machine,75999
+193620,Venu,23,iPhone 9,75000
+193621,Vijay,9,LG Mobile,55000
+193622,Siddhu,18,Apple Airpods Headphones,63999
+193623,Kedar,2,20in Monitor,75000
+193624,Sumanth,22,20in Monitor,61000
+193625,Kedar,2,Samsung Galaxy S20,65999
+193626,Sumanth,22,27in 4K Gaming Monitor,55000
+193627,Tarun,11,,63999
+193628,Harsha,5,Flatscreen TV,55000
+193629,Sumanth,22,Samsung Galaxy S9 Plus,75000
+193630,Shafi,3,Bose SoundSport Headphones,65999
+193631,Karteek,4,27in FHD Monitor,55000
+193632,Mallikarjun,13,,63000
+193633,Chaithanya,14,27in 4K Gaming Monitor,55000
+193634,Lavanya,16,LG Mobile,69000
+193635,Partha,8,Apple iPad 10.2-inch,59000
+193636,Siddhu,18,iPhone 8,69000
+193637,Pradhan,17,iPhone 8,55999
+193638,Harsha,5,Samsung Galaxy S9 Plus,51999
+193639,Nireekshan,1,LG ThinQ Refrigerator ,61000
+193640,Shahid,20,Google Phone,65999
+193641,Balaji,12,Google Phone,65000
+193642,Kedar,2,20in Monitor,51999
+193643,Pradhan,17,Macbook Pro Laptop,65000
+193644,Sumanth,22,20in Monitor,63999
+193645,Karteek,4,iPhone 7s,61000
+193646,Vijay,9,Apple Airpods Headphones,65999
+193647,Shafi,3,LG Mobile,63000
+193648,Shahid,20,iPhone 7s,75999
+193649,Siddhu,18,ThinkPad Laptop,50000
+193650,Partha,8,,60000
+193651,Mohan,24,Macbook Pro Laptop,65999
+193652,Kedar,2,Samsung Galaxy S20,65000
+193653,Jaya Chandra,21,20in Monitor,55999
+193654,Balaji,12,Google Phone,59000
+193655,Partha,8,iPhone 8,61000
+193656,Kedar,2,iPhone 7s,65999
+193657,Mallikarjun,13,34in Ultrawide Monitor,63000
+193658,Chaithanya,14,Google Phone,61000
+193659,Balaji,12,LG ThinQ Refrigerator ,55000
+193660,Chaithanya,14,,51999
+193661,Neelima,19,Macbook Pro Laptop,61000
+193662,Harsha,5,20in Monitor,65000
+193663,Vijay,9,27in 4K Gaming Monitor,75000
+193664,Mallikarjun,13,ThinkPad Laptop,63000
+193665,Mohan,24,Apple iPad 10.2-inch,63999
+193666,Karteek,4,Google Phone,50000
+193667,Kedar,2,Macbook Pro Laptop,69999
+193668,Kedar,2,Bose SoundSport Headphones,50000
+193669,Neelima,19,Bose SoundSport Headphones,63000
+193670,Hema,6,Macbook Pro Laptop,65000
+193671,Mohan,24,LG Washing Machine,63000
+193672,Karteek,4,Google Phone,75000
+193673,Siddhu,18,Samsung Galaxy S9 Plus,55000
+193674,Neelima,19,Macbook Pro Laptop,50000
+193675,Harsha,5,,65000
+193676,Kedar,2,Apple Airpods Headphones,51999
+193677,Karteek,4,Samsung Galaxy S9 Plus,51999
+193678,Balaji,12,Macbook Pro Laptop,75000
+193679,Jaya Chandra,21,27in FHD Monitor,63000
+193680,Madhurima,7,27in FHD Monitor,63000
+193681,Venki,15,Flatscreen TV,61000
+193682,Nireekshan,1,34in Ultrawide Monitor,65999
+193683,Neelima,19,LG ThinQ Refrigerator ,69000
+193684,Venki,15,iPhone 7s,50000
+193685,Vijay,9,LG Washing Machine,50000
+193686,Madhurima,7,20in Monitor,59000
+193687,Venu,23,Apple iPad 10.2-inch,65999
+193688,Partha,8,LG ThinQ Refrigerator ,50000
+193689,Venki,15,Samsung Galaxy S20,61000
+193690,Kedar,2,LG Mobile,75999
+193691,Chaithanya,14,27in 4K Gaming Monitor,51999
+193692,Vinay,10,20in Monitor,61000
+193693,Shafi,3,iPhone 7s,75000
+193694,Jaya Chandra,21,Macbook Pro Laptop,50000
+193695,Lavanya,16,,63000
+193696,Shahid,20,LG ThinQ Refrigerator ,65999
+193697,Nireekshan,1,LG ThinQ Refrigerator ,59000
+193698,Chaithanya,14,,75000
+193699,Nireekshan,1,iPhone 7s,55000
+193700,Venki,15,iPhone 11,63999
+193701,Tarun,11,Apple iPad 10.2-inch,65999
+193702,Balaji,12,,69000
+193703,Tarun,11,Apple iPad 10.2-inch,55999
+193704,Mallikarjun,13,Samsung Galaxy S20,75000
+193705,Nireekshan,1,34in Ultrawide Monitor,63999
+193706,Madhurima,7,iPhone 11,60000
+193707,Balaji,12,iPhone 9,63000
+193708,Karteek,4,27in 4K Gaming Monitor,63000
+193709,Shahid,20,Samsung Galaxy S9 Plus,75999
+193710,Shahid,20,iPhone 8,65999
+193711,Madhurima,7,Samsung Galaxy S9 Plus,69000
+193712,Venu,23,Apple iPad 10.2-inch,69000
+193713,Partha,8,27in 4K Gaming Monitor,75000
+193714,Mohan,24,Flatscreen TV,61000
+193715,Venki,15,ThinkPad Laptop,65999
+193716,Harsha,5,iPhone 11,69000
+193717,Neelima,19,Samsung Galaxy S9 Plus,55999
+193718,Vinay,10,LG ThinQ Refrigerator ,65999
+193719,Karteek,4,iPhone 9,55999
+193720,Venu,23,20in Monitor,75000
+193721,Vijay,9,LG ThinQ Refrigerator ,60000
+193722,Venu,23,Samsung Galaxy S20,69999
+193723,Hema,6,LG Mobile,75999
+193724,Shafi,3,LG ThinQ Refrigerator ,75999
+193725,Mallikarjun,13,Google Phone,75999
+193726,Pradhan,17,ThinkPad Laptop,59000
+193727,Nireekshan,1,iPhone 11,59000
+193728,Mallikarjun,13,Apple iPad 10.2-inch,50000
+193729,Chaithanya,14,Google Phone,65000
+193730,Lavanya,16,LG Mobile,75999
+193731,Tarun,11,iPhone 8,69999
+193732,Balaji,12,Samsung Galaxy S20,60000
+193733,Neelima,19,27in 4K Gaming Monitor,75999
+193734,Siddhu,18,Google Phone,69999
+193735,Vinay,10,20in Monitor,69999
+193736,Madhurima,7,27in FHD Monitor,55999
