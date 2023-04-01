@@ -26,10 +26,11 @@ advanced
 9.packages
 10. lib (create our own lib and publish to the python world)
 11. Exception Handling
+15. multithreading
 12. Regular Expressions  
 13. File Management
 14. logging
-15. multithreading
+
 
 Databases:
 
@@ -64,6 +65,7 @@ Numpy
 pandas
 
 1. pandas
+
 
 POC
 
